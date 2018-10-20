@@ -1,0 +1,2 @@
+# Scavenger-Hunt
+Scavenger Hunt let's you send out hints for where different files will be made available that you can use to make a fun, memorable experience for the people you share it with.  The basic concept involves sending a hint and download link that only works if you get near the desired location.  Also automatically gives you a hint about the location of the next item in the list and when you have found the last item's location.  Records time to find items and notifies original creator of the Hunt when you finish.  Lots of fun for everyone involved.
